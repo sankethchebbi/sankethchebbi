@@ -1,16 +1,19 @@
-### Hi there 👋
+[![](https://img.shields.io/badge/LinkedIn-sankethchebbi-blue)](https://www.linkedin.com/in/sanketh-chebbi-976132176/)
+[![](https://img.shields.io/badge/Gmail-sankethchebbi%40gmail.com-red)](mailto:sankethchebbi@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40sankethchebbi-blue)](https://t.me/sankethchebbi)
+[![](https://img.shields.io/badge/HackerRank-cr33dcode-brightgreen)](https://www.hackerrank.com/cr33dcode)
+[![](https://img.shields.io/badge/Twitter-%40sankethchebbi-blue)](https://twitter.com/sankethchebbi)
 
-<!--
-**sankethchebbi/sankethchebbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/sankethchebbi/sankethchebbi/blob/main/carbon.png)
 
-Here are some ideas to get you started:
+## About Me:
+#### Always curious. Competitive coding, motor sports and martial arts boost my adrenaline. I love building cool things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Competitive Coding, Web development and Linux
+- 🌱 I’m currently learning Data structures and algorithms 
+- 👯 I’m looking to collaborate on open-source projects
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Could this... BE any more long?
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
