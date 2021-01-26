@@ -3,6 +3,8 @@
 [![](https://img.shields.io/badge/Telegram-%40sankethchebbi-blue)](https://t.me/sankethchebbi)
 [![](https://img.shields.io/badge/HackerRank-cr33dcode-brightgreen)](https://www.hackerrank.com/cr33dcode)
 [![](https://img.shields.io/badge/Twitter-%40sankethchebbi-blue)](https://twitter.com/sankethchebbi)
+[![](https://img.shields.io/badge/Codechef-sankethchebbi-red)](https://www.codechef.com/users/sankethchebbi)
+[![](https://img.shields.io/badge/Codeforces-sankethchebbi-blue)](https://codeforces.com/profile/SankethChebbi)
 
 ![](https://github.com/sankethchebbi/sankethchebbi/blob/main/carbon.png)
 
