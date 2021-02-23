@@ -6,8 +6,6 @@
 [![](https://img.shields.io/badge/Codechef-sankethchebbi-red)](https://www.codechef.com/users/sankethchebbi)
 [![](https://img.shields.io/badge/Codeforces-sankethchebbi-blue)](https://codeforces.com/profile/SankethChebbi)
 
-![](https://github.com/sankethchebbi/sankethchebbi/blob/main/carbon.png)
-
 ## About Me:
 #### Always curious. Competitive coding, motor sports and martial arts boost my adrenaline. I love building cool things.
 
