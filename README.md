@@ -7,10 +7,10 @@
 [![](https://img.shields.io/badge/Codeforces-sankethchebbi-blue)](https://codeforces.com/profile/SankethChebbi)
 
 ## About Me:
-#### Always curious. Competitive coding, motor sports and martial arts boost my adrenaline. I love building cool things.
+#### Always curious. Competitive programming, motor sports and martial arts boost my adrenaline. I love building cool things.
 
 
-- 🔭 I’m currently working on Competitive Coding, Web development and Linux
+- 🔭 I’m currently working on Competitive programming, Web development and Linux
 - 🌱 I’m currently learning Data structures and algorithms 
 - 👯 I’m looking to collaborate on open-source projects
 - 😄 Pronouns: he/him
