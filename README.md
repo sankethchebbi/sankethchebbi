@@ -6,16 +6,8 @@
 [![](https://img.shields.io/badge/Codechef-sankethchebbi-red)](https://www.codechef.com/users/sankethchebbi)
 [![](https://img.shields.io/badge/Codeforces-sankethchebbi-blue)](https://codeforces.com/profile/SankethChebbi)
 
-## About Me:
-#### Always curious. Competitive programming, motor sports and martial arts boost my adrenaline. I love building cool things.
-
-
-- 🔭 I’m currently working on Competitive programming, Web development and Linux
-- 🌱 I’m currently learning Data structures and algorithms 
-- 👯 I’m looking to collaborate on open-source projects
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Could this... BE any more long?
+## Hello there! 
 
 my site: https://sankethchebbi.github.io/
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
