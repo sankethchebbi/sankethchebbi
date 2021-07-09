@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Twitter-%40sankethchebbi-blue)](https://twitter.com/sankethchebbi)
 [![](https://img.shields.io/badge/Codechef-sankethchebbi-red)](https://www.codechef.com/users/sankethchebbi)
 [![](https://img.shields.io/badge/Codeforces-sankethchebbi-blue)](https://codeforces.com/profile/SankethChebbi)
-<script src="https://tryhackme.com/badge/192496"></script>
+[![](https://img.shields.io/badge/TryHackMe-cr33d-brightgreen)](https://tryhackme.com/badge/192496)
 
 ## Hello there! 
 
