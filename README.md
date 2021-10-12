@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/LinkedIn-sankethchebbi-blue)](https://www.linkedin.com/in/sanketh-chebbi-976132176/)
-[![](https://img.shields.io/badge/Gmail-sankethchebbi%40gmail.com-red)](mailto:sankethchebbi@gmail.com)
+[![](https://img.shields.io/badge/Email-sanketh%40duck.com-red)](mailto:sanketh@duck.com)
 [![](https://img.shields.io/badge/Telegram-%40sankethchebbi-blue)](https://t.me/sankethchebbi)
 [![](https://img.shields.io/badge/HackerRank-sankethchebbi-brightgreen)](https://www.hackerrank.com/sankethchebbi)
 [![](https://img.shields.io/badge/Twitter-%40sankethchebbi-blue)](https://twitter.com/sankethchebbi)
