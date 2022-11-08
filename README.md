@@ -9,7 +9,7 @@
 
 ## Hello there! 
 
-my site: https://sanketh.tech
+my site: https://sanketh.live
 
 
 ![It Crowd Programming](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
