@@ -11,7 +11,7 @@
 
 my site: https://sanketh.live
 
-i dont use gh anymore. i host my own git server on aws. ping me to know more or log on to my site :)
+i dont use gh anymore. i host my own git server on aws. [log on to my site :)](https://sanketh.live/work.html)
 
 
 ![It Crowd Programming](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
