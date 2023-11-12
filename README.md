@@ -9,7 +9,7 @@
 
 ## Hello there! 
 
-my site: https://sanketh.live
+my site: https://sanketh.in
 
 i dont use gh anymore. i host my own git server on aws. [log on to my site :)](https://sanketh.live/work.html)
 
